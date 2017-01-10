@@ -1,0 +1,11 @@
+D:\Programowanie\VisualProjects\Tablice\Tablice\bin\Debug\Tablice.exe.config
+D:\Programowanie\VisualProjects\Tablice\Tablice\bin\Debug\Tablice.exe
+D:\Programowanie\VisualProjects\Tablice\Tablice\bin\Debug\Tablice.pdb
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.Form1.resources
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.Properties.Resources.resources
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.exe
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.pdb
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.ThreeDimensionalPosition.resources
+D:\Programowanie\VisualProjects\Tablice\Tablice\obj\Debug\Tablice.MulitDimeMessageBox.resources
